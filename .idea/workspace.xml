@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65513b4b-c61b-4763-bed0-45e923248b50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xYVyI6ngM65bRLSjUH3THixtw8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Grovesfitness.github.io\assets\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65513b4b-c61b-4763-bed0-45e923248b50" name="Default Changelist" comment="" />
+      <created>1630532261726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630532261726</updated>
+      <workItem from="1630532262792" duration="2933000" />
+      <workItem from="1630605219186" duration="5934000" />
+      <workItem from="1630628066658" duration="14251000" />
+      <workItem from="1631209793479" duration="51000" />
+      <workItem from="1631210627857" duration="2240000" />
+      <workItem from="1631326407940" duration="1214000" />
+      <workItem from="1631328549354" duration="620000" />
+      <workItem from="1633286469333" duration="34000" />
+      <workItem from="1633632607087" duration="493000" />
+      <workItem from="1633637705590" duration="2000" />
+      <workItem from="1633639025980" duration="19000" />
+      <workItem from="1633715054357" duration="26000" />
+      <workItem from="1636659409314" duration="7000" />
+      <workItem from="1636659870863" duration="5000" />
+      <workItem from="1639086177985" duration="1426000" />
+      <workItem from="1653145707663" duration="499000" />
+      <workItem from="1653153523192" duration="1324000" />
+      <workItem from="1653443394025" duration="9000" />
+      <workItem from="1667668218768" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
